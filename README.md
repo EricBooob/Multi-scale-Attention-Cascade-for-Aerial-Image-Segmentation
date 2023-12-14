@@ -1,5 +1,7 @@
 # MAC-Multi-scale-Attention-Cascade
 This is an official code for "MAC: Mutil-scale Attention Cascade for aerial image segmentation", which is based on [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) open source toolbox of semantic segmentation. This work achieves 69.06 mIoU on iSAID dataset and 73.37 on ISPRS Vaihingen dataset. Accepted by ICPRAM2024, Oral
+![Alt text]([image link](https://github.com/EricBooob/Multi-scale-Attention-Cascade-for-Aerial-Image-Segmentation/blob/main/comparison%20study%20on%20ISAID.png))
+
 
 ## Content
 1.Requirements      
