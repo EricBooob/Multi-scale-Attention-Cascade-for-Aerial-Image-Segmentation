@@ -78,3 +78,4 @@ python tools/test.py configs/mac/MAC_swin_isaid.py work_dirs/mac_isaid/mac_lates
     year={2020}
 }
 
+# MAC-Multi-scale-Attention-Cascade-MAC-
