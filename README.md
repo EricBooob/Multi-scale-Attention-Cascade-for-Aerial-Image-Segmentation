@@ -12,7 +12,10 @@ This is an official code for "MAC: Mutil-scale Attention Cascade for aerial imag
 5.Acknowledge  
 6.Reference  
 
+## !!!IMPORTANT!!! Before using, please read and be aware of the ```SoftwareLicenseAgreement_20230807_v1.pdf```   
+
 ## Requirements  
+ 
 We have tested our code with 
 
 ```
